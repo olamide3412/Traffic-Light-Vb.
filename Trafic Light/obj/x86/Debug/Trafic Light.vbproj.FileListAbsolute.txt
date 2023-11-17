@@ -1,0 +1,10 @@
+c:\users\ola\documents\visual studio 2010\Projects\Trafic Light\Trafic Light\bin\Debug\Trafic Light.exe
+c:\users\ola\documents\visual studio 2010\Projects\Trafic Light\Trafic Light\bin\Debug\Trafic Light.pdb
+c:\users\ola\documents\visual studio 2010\Projects\Trafic Light\Trafic Light\bin\Debug\Trafic Light.xml
+c:\users\ola\documents\visual studio 2010\Projects\Trafic Light\Trafic Light\obj\x86\Debug\Trafic_Light.Form1.resources
+c:\users\ola\documents\visual studio 2010\Projects\Trafic Light\Trafic Light\obj\x86\Debug\Trafic_Light.Resources.resources
+c:\users\ola\documents\visual studio 2010\Projects\Trafic Light\Trafic Light\obj\x86\Debug\Trafic Light.vbproj.GenerateResource.Cache
+c:\users\ola\documents\visual studio 2010\Projects\Trafic Light\Trafic Light\obj\x86\Debug\Trafic Light.exe
+c:\users\ola\documents\visual studio 2010\Projects\Trafic Light\Trafic Light\obj\x86\Debug\Trafic Light.xml
+c:\users\ola\documents\visual studio 2010\Projects\Trafic Light\Trafic Light\obj\x86\Debug\Trafic Light.pdb
+c:\users\ola\documents\visual studio 2010\Projects\Trafic Light\Trafic Light\obj\x86\Debug\Trafic_Light.Splash.resources
